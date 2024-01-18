@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="textPrimary">#B8B8B8</color>
+    <color name="background">#858484</color>
+    <color name="buttonBackground">#FFFFFF</color>
+    <color name="buttonText">#042485</color>
+
+    <color name="inputUnderline">#000000</color>
+    <color name="inputText">#000000</color>
+    <color name="hintText">#303030</color>
+</resources>
