@@ -32,5 +32,4 @@ This Android app is a simple application that demonstrates various features:
    ```bash
    git clone https://github.com/Yakub28/MobileApps_project
 2. **Run the Main Activity**
- 
-## Screenshots
+
